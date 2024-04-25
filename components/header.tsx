@@ -15,8 +15,8 @@ export function Header() {
     <>
       <header className="sticky top-0 z-50 flex items-center justify-between w-full px-4 border-b h-14 shrink-0 dark:bg-slate-800 bg-white backdrop-blur-xl">
         <span className="inline-flex items-center home-links whitespace-nowrap">
-          <a href="https://developersdigest.tech" rel="noopener" target="_blank">
-            <span className="block sm:inline text-lg sm:text-xl lg:text-2xl font-semibold dark:text-white text-black">answer <span className="linear-wipe">engine</span></span>
+          <a href="https://github.com/detroitnatif/SportsBetProAI?tab=readme-ov-file" rel="noopener" target="_blank">
+            <span className="block sm:inline text-lg sm:text-xl lg:text-2xl font-semibold dark:text-white text-black">SportsBetPro <span className="linear-wipe">AI</span></span>
           </a>
         </span>
         <div className="flex items-center justify-end space-x-2">
@@ -30,7 +30,7 @@ export function Header() {
           <Button variant="outline" asChild>
             <a
               target="_blank"
-              href="https://git.new/answr"
+              href="https://github.com/detroitnatif/SportsBetProAI"
               rel="noopener noreferrer"
               className="bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 text-black dark:text-white font-semibold py-2 px-4 rounded shadow"
             >
