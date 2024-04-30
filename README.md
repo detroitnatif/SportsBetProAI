@@ -105,15 +105,6 @@ Note: When 'useOllamaInference' is set to true, the model will be used for both 
 
 More info: https://ollama.com/blog/openai-compatibility
 
-### Backend + Node Only Express API
-
-[Watch the express tutorial here](https://youtu.be/43ZCeBTcsS8) for a detailed guide on setting up and running this project.
-In addition to the Next.JS version of the project, there is a backend only version that uses Node.js and Express. Which is located in the 'express-api' directory. This is a standalone version of the project that can be used as a reference for building a similar API. There is also a readme file in the 'express-api' directory that explains how to run the backend version.
-
-### Upstash Redis Rate Limiting
-
-[Watch the Upstash Redis Rate Limiting tutorial here](https://youtu.be/3_aNVu6EU3Y) for a detailed guide on setting up and running this project.
-Upstash Redis Rate Limiting is a free tier service that allows you to set up rate limiting for your application. It provides a simple and easy-to-use interface for configuring and managing rate limits. With Upstash, you can easily set limits on the number of requests per user, IP address, or other criteria. This can help prevent abuse and ensure that your application is not overwhelmed with requests.
 
 ## Contributing
 
